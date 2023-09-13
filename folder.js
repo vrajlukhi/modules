@@ -17,7 +17,7 @@ const delet=()=>{
     })
 }
 
-if(ope=="create"){
+if(opr=="create"){
     create()
 }
 else if(opr=="delete"){
